@@ -1,10 +1,14 @@
-Theme Made from Neverlicktaser | Josip
+Theme Made by Neverlicktaser | Josip
+
 /* IMPORT CSS FROM GITHUB */
 @import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
-WICHTIG! bzw gut zu wissen bei background brightness könnt ihr die % ändern das es dunkler wird!
-----------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
