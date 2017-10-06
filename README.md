@@ -1,7 +1,4 @@
-//META{"name":"ClearVision_Ruby","description":"A raging, red theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_blank'>Discord Reborn</a> by <a href='https://github.com/0mniscient' target='_blank'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_blank'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_blank'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_blank'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_blank'>Discord</a></b> | <b><a href='https://git.io/vXTqM' target='_blank'>Wiki</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_blank'>@Zerthox</a></b></span>","author":"<a href='https://github.com/Zerthox' target='_blank'>@Zerthox</a>","version":"5"}*//{}
-/* "ClearVision - Ruby v5" by @Zerthox */
-/* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
-
+Thame Made from Neverlicktaser | Josip
 /* IMPORT CSS FROM GITHUB */
 @import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
 /*
@@ -33,7 +30,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://www.google.de/search?q=heystan&source=lnms&tbm=isch&sa=X&ved=0ahUKEwja9unj9NzWAhWDB8AKHQkJA7wQ_AUICygC&biw=1600&bih=794#imgrc=IV6C5ieb8192fM:) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://cdn.discordapp.com/attachments/330008321933312001/365971592402173952/photo_1.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
